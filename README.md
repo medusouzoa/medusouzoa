@@ -1,5 +1,5 @@
 ### Hi there 👋
--I'm Yaren. I am currently working on Unity programming :) 
+-I'm Yaren.
 
 <!--
 **medusouzoa/medusouzoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
