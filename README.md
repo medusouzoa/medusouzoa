@@ -1,6 +1,14 @@
 ### Hi there 👋
 -I'm Yaren.
 
+I graduated from software engineering and have been developing my skills in game development for 3 years. I have a strong problem-solving and analytical thinking ability. Among the skills I possess are:
+-Game development for PC platforms
+-Game development for mobile platforms (iOS and Android)
+-Programming languages (C#, C++, Java)
+-Use of game engines (Unity Engine and Unreal Engine)
+-Game design
+
+I am always open and eager to learn new technologies and collaborate with other developers and teams.
 <!--
 **medusouzoa/medusouzoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
