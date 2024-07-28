@@ -6,7 +6,6 @@ I graduated from software engineering and have been developing my skills in game
 - Game development for mobile platforms (iOS and Android)
 - Programming languages (C#, C++, Java)
 - Use of game engines (Unity Engine and Unreal Engine)
-- Game design
 
 I am always open and eager to learn new technologies and collaborate with other developers and teams.
 <!--
